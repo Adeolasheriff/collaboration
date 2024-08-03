@@ -7,7 +7,7 @@
         padding: 50px 10px;
     }
     
-    .first:hover{
+    .firs:hover{
         transform: translateY(-15px);
         transition: all .6s;
     }
@@ -15,8 +15,4 @@
         padding: 50px 10px;
     }
     
-    .f{
-        display: flex;
-      
-    }
-    
+ 
